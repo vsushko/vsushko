@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a full-stack software engineer with experience in big data technologies. Enjoy working on high-performing teams and creating projects from scratch using the whole stack of technologies from top to bottom.
+
+
+Languages and Tools:
+
+
 <!--
 **vsushko/vsushko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vsushko.vsushko&left_color=blue&right_color=red)
