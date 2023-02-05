@@ -17,33 +17,37 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Languages and Tools
 -->
+
+
 
 ## Active Projects
 ### [SchemesAnalyzer](https://github.com/vsushko/SchemesAnalyzer)
 SchemesAnalyzer is a free and open tool for analyzing XSD schema sets. This tool does not require the presence of the Internet, which is suitable for those users who work on the intranet.
 
 #### Links
-* [GitHub](https://github.com/vsushko/SchemesAnalyzer)
 * [Docs](https://github.com/vsushko/SchemesAnalyzer/wiki/Application-description)
+* [GitHub](https://github.com/vsushko/SchemesAnalyzer)
 
-This project is a free and open (under [Apache 2](https://www.apache.org/licenses/LICENSE-2.0.html) license) tool for analyzing XSD schema sets. I'd love to receive contributions from the comunity and - you! There are many ways to contribute, from writing wiki posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into SchemesAnalyzer itself.
+This project is a free and open (under [Apache 2](https://www.apache.org/licenses/LICENSE-2.0.html) license) tool. I'd love to receive contributions from the comunity and - you! There are many ways to contribute, from writing wiki posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into SchemesAnalyzer itself.
 
 ## Connect with Me
 <div id="badges">
   <a href="https://www.linkedin.com/in/vasiliy-sushko">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn Badge"/>
   </a>
     <a href="https://medium.com/@vsushko">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=Medium&logoColor=FFFFFF&label=" alt="Medium Badge"/>
   </a>
   </a>
     <a href="https://habr.com/ru/users/vsprog">
-    <img src="https://img.shields.io/badge/Habr-lightblue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Habr&color=65A3BE&logo=Habr&logoColor=FFFFFF&label=" alt="Habr Badge"/>
   </a>
     </a>
     <a href="https://habr.com/ru/users/vsprog">
-    <img src="https://img.shields.io/badge/Goodreads-lightblue?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads Badge"/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Goodreads&color=372213&logo=Goodreads&logoColor=FFFFFF&label=" alt="Goodreads Badge"/>
   </a>
 </div>
 
