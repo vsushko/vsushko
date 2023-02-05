@@ -1,26 +1,20 @@
 ### Hi there 👋
 
-I am a full-stack software engineer with experience in big data technologies. Enjoy working on high-performing teams and creating projects from scratch using the whole stack of technologies from top to bottom.
+I am Vasiliy Sushko a full-stack software engineer with 9+ years of experience in developing enterprise applications and big-data projects. Enjoy working on high-performing teams and creating projects from scratch using the whole stack of technologies from top to bottom.
 
 If you'd like to get in touch with me, you can reach me at <vasiliy.sushko@gmail.com>.
 
-<!--
-**vsushko/vsushko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsushko&show_icons=true" alt="Vasiliy Sushko's Github Stats"></img>
+</p>
 
 ## Languages and Tools
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vsushko&show_icons=true&locale=en&layout=compact" alt="vsushko" />
+</p>
 
+## Latest Articles
+- [Kafka Performance. How to reach desired throughput](https://medium.com/@vsushko/kafka-performance-how-to-reach-desired-throughput-196d73802e3c).
 
 
 ## Active Projects
