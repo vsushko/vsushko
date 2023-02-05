@@ -16,7 +16,6 @@ If you'd like to get in touch with me, you can reach me at <vasiliy.sushko@gmail
 ## Latest Articles
 - [Kafka Performance. How to reach desired throughput](https://medium.com/@vsushko/kafka-performance-how-to-reach-desired-throughput-196d73802e3c).
 
-
 ## Active Projects
 ### [SchemesAnalyzer](https://github.com/vsushko/SchemesAnalyzer)
 SchemesAnalyzer is a free and open tool for analyzing XSD schema sets. This tool does not require the presence of the Internet, which is suitable for those users who work on the intranet.
@@ -26,6 +25,44 @@ SchemesAnalyzer is a free and open tool for analyzing XSD schema sets. This tool
 * [GitHub](https://github.com/vsushko/SchemesAnalyzer)
 
 This project is a free and open (under [Apache 2](https://www.apache.org/licenses/LICENSE-2.0.html) license) tool. I'd love to receive contributions from the comunity and - you! There are many ways to contribute, from writing wiki posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into SchemesAnalyzer itself.
+
+## [I'm teaching](https://otus.ru/teacher/1216)
+OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/data-engineer/) is a course where I am a teacher and give lectures.
+
+## Certifications
+##### 2022
+- [Apache Kafka Series - Kafka Streams for Data Processing](https://www.udemy.com/certificate/UC-4426924b-1b7f-4538-ab38-101a7f39edb4/)
+- [Master Spring Batch](https://www.udemy.com/certificate/UC-85d8c0a3-5028-4f0e-a131-732c26c3fcb1/)
+##### 2021
+- [Apache Kafka Series - Kafka Monitoring & Operations](https://www.udemy.com/certificate/UC-a9e1eaff-3b42-42b8-a1ce-a68b378c8c0b/)
+- [A Guide to Understand Java Generics with Examples](https://www.udemy.com/certificate/UC-55f3675d-3a65-4222-b9b2-dd747e61badf/)
+- [Apache Kafka Series - Confluent Schema Registry & REST Proxy](https://www.udemy.com/certificate/UC-e1abc6c1-85f7-426a-b56c-ab769f6b9c53/)
+- [Complete Mockito 2 course for beginners](https://www.udemy.com/certificate/UC-b7947f5b-fc8f-494e-9c1e-a72d6a060b8d/)
+- [Data Visualization with Kibana](https://www.udemy.com/certificate/UC-3e0f18e7-439b-48f2-8894-d34f38c7c0fb/)
+- [Java Generics, Collections Framework And Streams API](https://www.udemy.com/certificate/UC-75b7ca9a-6612-47a5-9777-5782f76c53e9/)
+- [Mockito: Next-Level Java Unit Testing](https://www.udemy.com/certificate/UC-3fdced21-07f5-4040-bb7e-f755b7fa6d68/)
+- [Spark 3.0 & Big Data Essentials with Scala | Rock the JVM](https://www.udemy.com/certificate/UC-a985778e-add1-4774-b4e3-aafc603e95cd/)
+##### 2020
+- [Apache Kafka Series - Kafka Security | SSL SASL Kerberos ACL](https://www.udemy.com/certificate/UC-020aab1e-30cc-4a5a-8991-2c2cdbe8c0e0/)
+- [Building Apache HBase Applications](https://www.udemy.com/certificate/UC-dc2ed9e1-922d-43ab-8ea9-6fb8a9b96d16/)
+- [Complete Guide to Elasticsearch](https://www.udemy.com/certificate/UC-951778c8-9dae-4c16-8938-434d35b8b59f/)
+- [DATA ENGINEER 6.0](http://lk-de.newprolab.com/certificate/vasiliy.sushko/1a7955c8a09d05cad864433bc12f2c31cce93436d37edcc61518b03ba7daf96f8a3aa2d3c9404ddc5545c14dd66d95614aecac255813b71ff8becdcb115d31bf)
+##### 2019
+- [Apache Kafka Series - Learn Apache Kafka for Beginners v2](https://www.udemy.com/certificate/UC-60N33MWA/)
+- [Bootstrap 4 Beginners: Code a Responsive Landing Page](https://www.udemy.com/certificate/UC-B224IJNJ/)
+- [Full Stack Project: Spring Boot 2.0, ReactJS, Redux](https://www.udemy.com/certificate/UC-HGZCQT22/)
+- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/certificate/UC-PRKZ55YS/)
+- [Rock the JVM! Advanced Scala and Functional Programming](https://www.udemy.com/certificate/UC-T9KM27C1)
+##### 2018
+- [Data Structures and Algorithms Bootcamp](https://www.udemy.com/certificate/UC-1EFJT6QD/)
+- [Java Memory Management](https://www.udemy.com/certificate/UC-SZR7O840/)
+- [Multithreading and Parallel Computing in Java](https://www.udemy.com/certificate/UC-N3IPUWO5/)
+- [Rock the JVM! Scala and Functional Programming for Beginners](https://www.udemy.com/certificate/UC-B7QQ7EV7/)
+##### 2017
+- [Angular 5 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/certificate/UC-GLSNL3P0)
+- [HTML & CSS advanced course](https://assets.htmlacademy.ru/certificates/intensive/47/465123.pdf)
+- [HTML & CSS basic course](https://assets.htmlacademy.ru/certificates/intensive/43/465123.pdf)
+- [JavaScript basic course](https://assets.htmlacademy.ru/certificates/intensive/55/465123.pdf)
 
 ## Connect with Me
 <div id="badges">
