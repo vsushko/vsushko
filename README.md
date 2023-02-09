@@ -17,6 +17,8 @@ If you'd like to get in touch with me, you can reach me at <vasiliy.sushko@gmail
 - [Kafka Performance. How to reach desired throughput](https://medium.com/@vsushko/kafka-performance-how-to-reach-desired-throughput-196d73802e3c).
 
 ## Active Projects
+### [Leetcode patterns aggregator](https://github.com/vsushko/leetcode-patterns-aggregator)
+
 ### [SchemesAnalyzer](https://github.com/vsushko/SchemesAnalyzer)
 SchemesAnalyzer is a free and open tool for analyzing XSD schema sets. This tool does not require the presence of the Internet, which is suitable for those users who work on the intranet.
 
