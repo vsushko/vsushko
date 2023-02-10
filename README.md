@@ -18,7 +18,11 @@ If you'd like to get in touch with me, you can reach me at <vasiliy.sushko@gmail
 
 ## Active Projects
 ### [Leetcode patterns aggregator](https://github.com/vsushko/leetcode-patterns-aggregator)
+This repo is intended for any individual wanting to improve their problem-solving skills for software engineering interviews.
 
+Problems are grouped under their respective subtopic, to focus on repeatedly applying common patterns rather than randomly tackling questions.
+
+I'd love to receive contributions from the comunity and - you! See more for details [here](https://github.com/vsushko/leetcode-patterns-aggregator).
 ### [SchemesAnalyzer](https://github.com/vsushko/SchemesAnalyzer)
 SchemesAnalyzer is a free and open tool for analyzing XSD schema sets. This tool does not require the presence of the Internet, which is suitable for those users who work on the intranet.
 
