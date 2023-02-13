@@ -14,6 +14,7 @@ If you'd like to get in touch with me, you can reach me at <vasiliy.sushko@gmail
 </p>
 
 ## Latest Articles
+- [Elasticsearch as NoSQL Database](https://medium.com/@vsushko/elasticsearch-as-nosql-database-8b887100b2c8).
 - [Kafka Performance. How to reach desired throughput](https://medium.com/@vsushko/kafka-performance-how-to-reach-desired-throughput-196d73802e3c).
 
 ## Active Projects
