@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vasiliy Sushko, a full-stack software engineer with 9+ years of experience in developing enterprise applications. Enjoy working in high-performing teams and creating projects from scratch using the whole stack of technologies from top to bottom.
+I am Vasiliy Sushko, a full-stack software engineer with 10+ years of experience in developing enterprise applications. Enjoy working in high-performing teams and creating projects from scratch using the whole stack of technologies from top to bottom.
 
 If you'd like to get in touch with me, you can reach me at <vasiliy.sushko@gmail.com>.
 
