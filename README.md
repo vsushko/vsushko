@@ -37,6 +37,8 @@ This project is a free and open (under [Apache 2](https://www.apache.org/license
 OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/data-engineer/) is a course where I am a teacher and give lectures.
 
 ## Certifications
+##### 2023
+- [Multithreading, Parallel & Asynchronous Coding in Modern Java](https://www.udemy.com/certificate/UC-1973923d-020a-4bfb-a2df-8567cd33f8a3/)
 ##### 2022
 - [Apache Kafka Series - Kafka Streams for Data Processing](https://www.udemy.com/certificate/UC-4426924b-1b7f-4538-ab38-101a7f39edb4/)
 - [Master Spring Batch](https://www.udemy.com/certificate/UC-85d8c0a3-5028-4f0e-a131-732c26c3fcb1/)
