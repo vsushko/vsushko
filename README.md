@@ -40,6 +40,7 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
 ##### 2023
 - [Java Multithreading, Concurrency & Performance Optimization](https://www.udemy.com/certificate/UC-df0bf0e0-d1c0-4b58-ad05-11db91e55d5a/)
 - [Multithreading, Parallel & Asynchronous Coding in Modern Java](https://www.udemy.com/certificate/UC-1973923d-020a-4bfb-a2df-8567cd33f8a3/)
+- [Pragmatic System Design](https://www.udemy.com/certificate/UC-53f3a23d-20dd-40b6-b330-86a20601963a/)
 ##### 2022
 - [Apache Kafka Series - Kafka Streams for Data Processing](https://www.udemy.com/certificate/UC-4426924b-1b7f-4538-ab38-101a7f39edb4/)
 - [Master Spring Batch](https://www.udemy.com/certificate/UC-85d8c0a3-5028-4f0e-a131-732c26c3fcb1/)
