@@ -38,6 +38,7 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
 
 ## Certifications
 ##### 2023
+- [Building Microservices with Spring Boot & Spring Cloud](https://www.udemy.com/certificate/UC-f9bf014a-f4f6-4501-94e9-326a096ed926/)
 - [Microservices with Java Spring Boot and Spring Cloud](https://www.udemy.com/certificate/UC-abb77d2b-cb93-40dc-a35c-1a86b8236c0f/)
 - [Build Reactive MicroServices using Spring WebFlux/SpringBoot](https://www.udemy.com/certificate/UC-abb77d2b-cb93-40dc-a35c-1a86b8236c0f/)
 - [Java Multithreading, Concurrency & Performance Optimization](https://www.udemy.com/certificate/UC-df0bf0e0-d1c0-4b58-ad05-11db91e55d5a/)
