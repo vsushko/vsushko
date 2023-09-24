@@ -23,7 +23,7 @@ This repo is intended for any individual wanting to improve their problem-solvin
 
 Problems are grouped under their respective subtopic, to focus on repeatedly applying common patterns rather than randomly tackling questions.
 
-I'd love to receive contributions from the comunity and - you! See more for details [here](https://github.com/vsushko/leetcode-patterns-aggregator).
+I'd love to receive contributions from the community and - you! See more for details [here](https://github.com/vsushko/leetcode-patterns-aggregator).
 ### [SchemesAnalyzer](https://github.com/vsushko/SchemesAnalyzer)
 SchemesAnalyzer is a free and open tool for analyzing XSD schema sets. This tool does not require the presence of the Internet, which is suitable for those users who work on the intranet.
 
