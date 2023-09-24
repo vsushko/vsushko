@@ -1,4 +1,4 @@
-<img width="876" alt="image" src="https://github.com/vsushko/vsushko/assets/8176984/1bd8ae43-bcee-424a-a323-3f4241e93c3e">### Hi there 👋
+### Hi there 👋
 
 I am Vasiliy Sushko, a full-stack software engineer with 10+ years of experience in developing enterprise applications. Enjoy working in high-performing teams and creating projects from scratch using the whole stack of technologies from top to bottom.
 
