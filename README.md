@@ -38,6 +38,7 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
 
 ## Certifications
 ##### 2023
+- [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/certificate/UC-25e77859-dc99-4f81-a3f4-e599289f3d50/)
 - [The Complete Guide to Becoming a Software Architect](https://www.udemy.com/certificate/UC-e392f765-54a6-4a81-b38c-be1d6dc42609/)
 - [Docker from A to Z™: Swarm + Jenkins](https://www.udemy.com/certificate/UC-37e0f06c-e469-4e2a-a126-24e7c98bdafc/)
 - [Microservices Interview Questions Preparation Course](https://www.udemy.com/certificate/UC-75b4f233-614a-4dae-ac7c-21b7e96e6092/)
