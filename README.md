@@ -38,6 +38,7 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
 
 ## Certifications
 ##### 2023
+- [gRPC [Java] Master Class: Build Modern API & Micro services](https://www.udemy.com/certificate/UC-fe02a9cc-34d4-4870-8dd1-f9b7d32bacf6/)
 - [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/certificate/UC-73722f31-d679-4c25-8e54-c7a2e9aaeec6/)
 - [Bootstrap 5 From Scratch | Build 5 Modern Websites](https://www.udemy.com/certificate/UC-581de0ae-d86e-49a7-9dd5-7d8ebc634bef/)
 - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/certificate/UC-25e77859-dc99-4f81-a3f4-e599289f3d50/)
