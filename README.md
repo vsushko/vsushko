@@ -37,6 +37,8 @@ This project is a free and open (under [Apache 2](https://www.apache.org/license
 OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/data-engineer/) is a course where I am a teacher and give lectures.
 
 ## Certifications
+##### 2024
+- [Spring Native and GraalVM - Build Blazing Fast Microservices](https://www.udemy.com/certificate/UC-a555acf9-ac16-463b-a37d-bbbb503e8086/)
 ##### 2023
 - [gRPC [Java] Master Class: Build Modern API & Micro services](https://www.udemy.com/certificate/UC-fe02a9cc-34d4-4870-8dd1-f9b7d32bacf6/)
 - [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/certificate/UC-73722f31-d679-4c25-8e54-c7a2e9aaeec6/)
