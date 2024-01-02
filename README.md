@@ -38,6 +38,7 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
 
 ## Certifications
 ##### 2024
+- [Java 21 - Virtual Threads MasterClass](https://www.udemy.com/certificate/UC-da82dff4-8d01-4652-ad10-0f27fbae8bed/)
 - [Spring Native and GraalVM - Build Blazing Fast Microservices](https://www.udemy.com/certificate/UC-a555acf9-ac16-463b-a37d-bbbb503e8086/)
 ##### 2023
 - [gRPC [Java] Master Class: Build Modern API & Micro services](https://www.udemy.com/certificate/UC-fe02a9cc-34d4-4870-8dd1-f9b7d32bacf6/)
