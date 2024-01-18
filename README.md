@@ -38,6 +38,7 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
 
 ## Certifications
 ##### 2024
+- [CI CD using GitHub Actions-Made Easy | GitHub Actions CI/CD](https://www.udemy.com/certificate/UC-40390f96-5b46-458c-918b-60fb40621494/)
 - [GitHub Actions - The Complete Guide](https://www.udemy.com/certificate/UC-e7b6cd4e-4e8d-468a-a0c1-9b18f09c3931/)
 - [Java 21 - Virtual Threads MasterClass](https://www.udemy.com/certificate/UC-da82dff4-8d01-4652-ad10-0f27fbae8bed/)
 - [Spring Native and GraalVM - Build Blazing Fast Microservices](https://www.udemy.com/certificate/UC-a555acf9-ac16-463b-a37d-bbbb503e8086/)
