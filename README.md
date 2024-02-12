@@ -38,6 +38,7 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
 
 ## Certifications
 ##### 2024
+- [Gradle for java developers](https://www.udemy.com/certificate/UC-54de38a8-9812-4a8e-b9de-e5cbd8cff42a/)
 - [Managing database versions with Liquibase and Spring Boot](https://www.udemy.com/certificate/UC-fa12b43c-4033-4cde-aa57-c5b80f1fd753/)
 - [Kubernetes From Scratch For Beginners](https://www.udemy.com/certificate/UC-8f960237-a748-4e35-b0f7-76423a476239/)
 - [CI CD using GitHub Actions-Made Easy | GitHub Actions CI/CD](https://www.udemy.com/certificate/UC-40390f96-5b46-458c-918b-60fb40621494/)
