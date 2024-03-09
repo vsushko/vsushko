@@ -38,6 +38,7 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
 
 ## Certifications
 ##### 2024
+- [Extending Keycloak: a Beginners' Guide](https://www.udemy.com/certificate/UC-683c9095-1cbf-4faf-915a-b36be152ebf9/)
 - [Advanced OpenID Connect with Keycloak and Spring Security](https://www.udemy.com/certificate/UC-dd29e304-5d58-4e2c-a849-62aff7237271/)
 - [Gradle for java developers](https://www.udemy.com/certificate/UC-54de38a8-9812-4a8e-b9de-e5cbd8cff42a/)
 - [Managing database versions with Liquibase and Spring Boot](https://www.udemy.com/certificate/UC-fa12b43c-4033-4cde-aa57-c5b80f1fd753/)
