@@ -38,6 +38,7 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
 
 ## Certifications
 ##### 2024
+- [Spring Security 6 Zero to Master along with JWT, OAUTH2](https://www.udemy.com/certificate/UC-8695e35a-2d73-4c0a-af3f-2a15a764cc2c/)
 - [Extending Keycloak: a Beginners' Guide](https://www.udemy.com/certificate/UC-683c9095-1cbf-4faf-915a-b36be152ebf9/)
 - [Advanced OpenID Connect with Keycloak and Spring Security](https://www.udemy.com/certificate/UC-dd29e304-5d58-4e2c-a849-62aff7237271/)
 - [Gradle for java developers](https://www.udemy.com/certificate/UC-54de38a8-9812-4a8e-b9de-e5cbd8cff42a/)
