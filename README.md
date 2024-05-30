@@ -38,6 +38,7 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
 
 ## Certifications
 ##### 2024
+- [Learn How To Conduct Interviews For A Technical / IT Role](https://www.udemy.com/certificate/UC-f15509c1-ff8b-4ac3-91f9-4501b4f7e32c/)
 - [Master Microservices with SpringBoot, Docker, Kubernetes](https://www.udemy.com/certificate/UC-bda6d871-72bf-4aea-9ba5-fe439060d5c9/)
 - [Spring Security 6 Zero to Master along with JWT, OAUTH2](https://www.udemy.com/certificate/UC-8695e35a-2d73-4c0a-af3f-2a15a764cc2c/)
 - [Extending Keycloak: a Beginners' Guide](https://www.udemy.com/certificate/UC-683c9095-1cbf-4faf-915a-b36be152ebf9/)
