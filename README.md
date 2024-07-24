@@ -38,6 +38,7 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
 
 ## Certifications
 ##### 2024
+- [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/fd2f7a7288f948bdba7cb03427de9b7c)
 - [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/certificate/UC-202823ef-bcd4-4035-80da-057ed3326a83/)
 - [Learn How To Conduct Interviews For A Technical / IT Role](https://www.udemy.com/certificate/UC-f15509c1-ff8b-4ac3-91f9-4501b4f7e32c/)
 - [Master Microservices with SpringBoot, Docker, Kubernetes](https://www.udemy.com/certificate/UC-bda6d871-72bf-4aea-9ba5-fe439060d5c9/)
