@@ -38,7 +38,10 @@ This project is a free and open (under [Apache 2](https://www.apache.org/license
 OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/data-engineer/) is a course where I am a teacher and give lectures.
 
 ## Certifications
+##### 2025
+-
 ##### 2024
+- [Ultimate AWS Certified Developer Associate 2025 DVA-C02](https://www.udemy.com/certificate/UC-02f4e5e5-9707-443d-9a45-7449fc9bf82b/)
 - [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/fd2f7a7288f948bdba7cb03427de9b7c)
 - [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/certificate/UC-202823ef-bcd4-4035-80da-057ed3326a83/)
 - [Learn How To Conduct Interviews For A Technical / IT Role](https://www.udemy.com/certificate/UC-f15509c1-ff8b-4ac3-91f9-4501b4f7e32c/)
