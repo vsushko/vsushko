@@ -39,7 +39,7 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
 
 ## Certifications
 ##### 2025
--
+- [Spring AI: From AI Fundamentals to Spring AI Insights](http://udemy.com/certificate/UC-ddffa0a3-35a8-4f48-8258-6db7034e1253/)
 ##### 2024
 - [Ultimate AWS Certified Developer Associate 2025 DVA-C02](https://www.udemy.com/certificate/UC-02f4e5e5-9707-443d-9a45-7449fc9bf82b/)
 - [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/fd2f7a7288f948bdba7cb03427de9b7c)
