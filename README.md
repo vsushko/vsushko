@@ -126,5 +126,3 @@ OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/da
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Goodreads&color=372213&logo=Goodreads&logoColor=FFFFFF&label=" alt="Goodreads Badge"/>
   </a>
 </div>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vsushko.vsushko&left_color=blue&right_color=red)
