@@ -38,7 +38,11 @@ This project is a free and open (under [Apache 2](https://www.apache.org/license
 OTUS is an online education platform. [Data Engineer](https://otus.ru/lessons/data-engineer/) is a course where I am a teacher and give lectures.
 
 ## Certifications
-##### 2025
+##### 2025 
+- [Model Context Protocol (MCP) for Spring Boot Developers](https://www.udemy.com/certificate/UC-c4af8b99-8475-464d-bb8d-d3967978479d/)
+- [AWS Certified AI Practitioner](https://www.credly.com/earner/earned/badge/7b41b6cc-7ba0-40b9-bc5f-ffd1f3e562d7)
+- [Ultimate AWS Certified AI Practitioner AIF-C01](https://www.udemy.com/certificate/UC-dc494985-35f8-4f73-aab7-d4c459ec36ff/)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/693423be-5861-46e1-b86f-3786c84c271c)
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/f40639db-d9ee-499d-9e0d-5ed60f3244e1)
 - [Spring AI: From AI Fundamentals to Spring AI Insights](http://udemy.com/certificate/UC-ddffa0a3-35a8-4f48-8258-6db7034e1253/)
 ##### 2024
